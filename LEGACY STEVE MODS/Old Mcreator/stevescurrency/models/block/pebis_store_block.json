@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/pebis_top",
+    "up": "stevescurrency:blocks/pebis_top",
+    "north": "stevescurrency:blocks/pebis_face",
+    "east": "stevescurrency:blocks/pebis_side",
+    "south": "stevescurrency:blocks/pebis_side",
+    "west": "stevescurrency:blocks/pebis_side",
+    "particle": "stevescurrency:blocks/pebis_top"
+  }
+}

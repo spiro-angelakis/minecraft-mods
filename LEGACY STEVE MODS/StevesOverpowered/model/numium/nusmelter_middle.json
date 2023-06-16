@@ -1,0 +1,129 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "numium/nusmelter_power_blocktexture",
+		"particle": "numium/nusmelter_power_blocktexture"
+	},
+	"elements": [
+		{
+			"name": "octagon",
+			"from": [0, 2.92893, 3],
+			"to": [16, 7.07107, 4],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7, 5, 8]},
+			"faces": {
+				"north": {"uv": [1, 14, 2, 15], "texture": "#0"},
+				"east": {"uv": [6, 10, 7, 11], "texture": "#0"},
+				"south": {"uv": [2, 12, 3, 13], "texture": "#0"},
+				"west": {"uv": [4, 12, 5, 13], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [0, 2.92893, 3],
+			"to": [16, 7.07107, 4],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7, 5, 8]},
+			"faces": {
+				"north": {"uv": [1, 14, 2, 15], "texture": "#0"},
+				"east": {"uv": [7, 12, 8, 13], "texture": "#0"},
+				"south": {"uv": [3, 12, 4, 13], "texture": "#0"},
+				"west": {"uv": [4, 13, 5, 14], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [0, 2.92893, 12],
+			"to": [16, 7.07107, 13],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7, 5, 8]},
+			"faces": {
+				"north": {"uv": [1, 14, 2, 15], "texture": "#0"},
+				"east": {"uv": [6, 13, 7, 14], "texture": "#0"},
+				"south": {"uv": [6, 11, 7, 12], "texture": "#0"},
+				"west": {"uv": [6, 12, 7, 13], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [0, 2.92893, 12],
+			"to": [16, 7.07107, 13],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7, 5, 8]},
+			"faces": {
+				"north": {"uv": [1, 14, 2, 15], "texture": "#0"},
+				"east": {"uv": [6, 11, 7, 12], "texture": "#0"},
+				"south": {"uv": [3, 12, 4, 13], "texture": "#0"},
+				"west": {"uv": [8, 12, 9, 13], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [0, 0, 5.92893],
+			"to": [16, 1, 10.07107],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7, 5, 8]},
+			"faces": {
+				"north": {"uv": [1, 14, 2, 15], "texture": "#0"},
+				"east": {"uv": [8, 13, 9, 14], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"west": {"uv": [6, 13, 7, 14], "texture": "#0"},
+				"up": {"uv": [6, 12, 7, 13], "texture": "#0"},
+				"down": {"uv": [3, 10, 4, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [0, 0, 5.92893],
+			"to": [16, 1, 10.07107],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7, 5, 8]},
+			"faces": {
+				"north": {"uv": [1, 14, 2, 15], "texture": "#0"},
+				"east": {"uv": [9, 12, 10, 13], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"west": {"uv": [5, 11, 6, 12], "texture": "#0"},
+				"up": {"uv": [6, 10, 7, 11], "texture": "#0"},
+				"down": {"uv": [7, 14, 8, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [0, 9, 5.92893],
+			"to": [16, 10, 10.07107],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7, 5, 8]},
+			"faces": {
+				"north": {"uv": [1, 14, 2, 15], "texture": "#0"},
+				"east": {"uv": [5, 12, 6, 13], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"west": {"uv": [4, 12, 5, 13], "texture": "#0"},
+				"up": {"uv": [0, 11, 1, 12], "texture": "#0"},
+				"down": {"uv": [4, 13, 5, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [0, 9, 5.92893],
+			"to": [16, 10, 10.07107],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7, 5, 8]},
+			"faces": {
+				"north": {"uv": [1, 14, 2, 15], "texture": "#0"},
+				"east": {"uv": [5, 11, 6, 12], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"west": {"uv": [5, 12, 6, 13], "texture": "#0"},
+				"up": {"uv": [4, 12, 5, 13], "texture": "#0"},
+				"down": {"uv": [7, 12, 8, 13], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "octagon",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7]
+		}
+	]
+}

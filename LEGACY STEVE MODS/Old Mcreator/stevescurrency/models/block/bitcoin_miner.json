@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/bitcoin_miner_top",
+    "up": "stevescurrency:blocks/bitcoin_miner_top",
+    "north": "stevescurrency:blocks/bitcoinminerface",
+    "east": "stevescurrency:blocks/bitcoin_miner_side",
+    "south": "stevescurrency:blocks/bitcoinminerface",
+    "west": "stevescurrency:blocks/bitcoin_miner_side",
+    "particle": "stevescurrency:blocks/bitcoin_miner_top"
+  }
+}

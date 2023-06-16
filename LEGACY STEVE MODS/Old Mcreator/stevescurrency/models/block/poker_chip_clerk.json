@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/chip_clerk_top",
+    "up": "stevescurrency:blocks/chip_clerk_top",
+    "north": "stevescurrency:blocks/chip_clerk_face",
+    "east": "stevescurrency:blocks/chip_clerk_side",
+    "south": "stevescurrency:blocks/chip_clerk_top",
+    "west": "stevescurrency:blocks/chip_clerk_side",
+    "particle": "stevescurrency:blocks/chip_clerk_top"
+  }
+}

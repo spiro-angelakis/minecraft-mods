@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+
+
+make cryobed (for respawn loc)
+
+
+add earth stone bauxite
+add raw bauxite and ingot and give forge tag
+add raw osmium and ingot and give forge tag
+
+
+
+
+
+
+
+dont print atmo moon gen locs in chat
+make phobos and deimos spawn anywhere instead of close pos neg
+unforceload chunks for atmo moons after gen
+
+
+make jupiter's atmo proc
+
+make saturn
+
+
+
+
+
+
+
+
+when players fall below -60, check if in a space dimension and do teleports
+
+
+------
+
+fluid block tags
+
+forge:oxygen
+forge:hydrogen
+
+
+-----
+
+setblock ~ ~ ~ minecraft:chest{LootTable:"steves_universe2:chests/cloud_tower_loot_table"} destroy
+

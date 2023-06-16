@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/blackmarket_top",
+    "up": "stevescurrency:blocks/blackmarket_top",
+    "north": "stevescurrency:blocks/blackmarket_face",
+    "east": "stevescurrency:blocks/blackmarket_side",
+    "south": "stevescurrency:blocks/blackmarket_side",
+    "west": "stevescurrency:blocks/blackmarket_side",
+    "particle": "stevescurrency:blocks/blackmarket_top"
+  }
+}

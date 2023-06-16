@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/cash_register_top",
+    "up": "stevescurrency:blocks/cash_register_top",
+    "north": "stevescurrency:blocks/cash_register_face",
+    "east": "stevescurrency:blocks/cash_register_side",
+    "south": "stevescurrency:blocks/cash_register_side",
+    "west": "stevescurrency:blocks/cash_register_side",
+    "particle": "stevescurrency:blocks/cash_register_top"
+  }
+}

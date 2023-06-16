@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevesuniverse:blocks/moonturf",
+    "up": "stevesuniverse:blocks/moonturf",
+    "north": "stevesuniverse:blocks/moonturf",
+    "east": "stevesuniverse:blocks/moonturf",
+    "south": "stevesuniverse:blocks/moonturf",
+    "west": "stevesuniverse:blocks/moonturf",
+    "particle": "stevesuniverse:blocks/moonturf"
+  }
+}

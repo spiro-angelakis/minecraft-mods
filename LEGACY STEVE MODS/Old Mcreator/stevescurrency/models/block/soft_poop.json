@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/soft_poop",
+    "up": "stevescurrency:blocks/soft_poop",
+    "north": "stevescurrency:blocks/soft_poop",
+    "east": "stevescurrency:blocks/soft_poop",
+    "south": "stevescurrency:blocks/soft_poop",
+    "west": "stevescurrency:blocks/soft_poop",
+    "particle": "stevescurrency:blocks/soft_poop"
+  }
+}

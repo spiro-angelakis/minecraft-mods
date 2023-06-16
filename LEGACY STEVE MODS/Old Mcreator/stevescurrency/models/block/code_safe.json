@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/codesafe_side",
+    "up": "stevescurrency:blocks/codesafe_side",
+    "north": "stevescurrency:blocks/codesafe",
+    "east": "stevescurrency:blocks/codesafe_side",
+    "south": "stevescurrency:blocks/codesafe_side",
+    "west": "stevescurrency:blocks/codesafe_side",
+    "particle": "stevescurrency:blocks/codesafe_side"
+  }
+}

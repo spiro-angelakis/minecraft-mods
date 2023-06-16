@@ -1,0 +1,49 @@
+Unsupposrted library path: C:\Users\Angel\MCreatorWorkspaces\stevesuniverse\build\classes\java\api
+Unsupposrted library path: C:\Users\Angel\MCreatorWorkspaces\stevesuniverse\build\resources\api
+Symbol range map extraction starting
+Processing 15 files
+startProcessing "net/mcreator/stevesuniverse/ClientProxyStevesUniverse.java" md5: 46f628d17efd09b4115bcb1f77349a2d
+endProcessing "net/mcreator/stevesuniverse/ClientProxyStevesUniverse.java"
+
+startProcessing "net/mcreator/stevesuniverse/ElementsStevesUniverse.java" md5: 4e8118a3c2a5a9fc5c8fd044ccc513f7
+endProcessing "net/mcreator/stevesuniverse/ElementsStevesUniverse.java"
+
+startProcessing "net/mcreator/stevesuniverse/IProxyStevesUniverse.java" md5: 0c8544c2346082eee83df86720d775a9
+endProcessing "net/mcreator/stevesuniverse/IProxyStevesUniverse.java"
+
+startProcessing "net/mcreator/stevesuniverse/ServerProxyStevesUniverse.java" md5: bf98b4d2f5c6054d0d77d11f91110be8
+endProcessing "net/mcreator/stevesuniverse/ServerProxyStevesUniverse.java"
+
+startProcessing "net/mcreator/stevesuniverse/StevesUniverse.java" md5: 59bb38785ab2800e6afd95dd5491569d
+endProcessing "net/mcreator/stevesuniverse/StevesUniverse.java"
+
+startProcessing "net/mcreator/stevesuniverse/StevesUniverseVariables.java" md5: d714e28a05ecefb7a73bd46ad3fdb932
+endProcessing "net/mcreator/stevesuniverse/StevesUniverseVariables.java"
+
+startProcessing "net/mcreator/stevesuniverse/block/BlockMoonTurf.java" md5: 3c6ea2529993cb60f536576cb4411422
+endProcessing "net/mcreator/stevesuniverse/block/BlockMoonTurf.java"
+
+startProcessing "net/mcreator/stevesuniverse/block/BlockRocketFuel.java" md5: 890fd08ae1e3604b616469c10e8bfda2
+endProcessing "net/mcreator/stevesuniverse/block/BlockRocketFuel.java"
+
+startProcessing "net/mcreator/stevesuniverse/block/BlockShipBlock.java" md5: c98b22abe46332cfc1ee58d650ce2f8e
+endProcessing "net/mcreator/stevesuniverse/block/BlockShipBlock.java"
+
+startProcessing "net/mcreator/stevesuniverse/item/ItemFuelBucket.java" md5: 27539b3cf6e1f564bc1cdb5a81ffabd5
+endProcessing "net/mcreator/stevesuniverse/item/ItemFuelBucket.java"
+
+startProcessing "net/mcreator/stevesuniverse/procedure/ProcedureFlySpace.java" md5: bd1cd749c2a23fe0b03f9f8c1507fa8f
+endProcessing "net/mcreator/stevesuniverse/procedure/ProcedureFlySpace.java"
+
+startProcessing "net/mcreator/stevesuniverse/procedure/ProcedureFuelRocket.java" md5: fbe178aff000adbdcd3d1dc8b300ade3
+endProcessing "net/mcreator/stevesuniverse/procedure/ProcedureFuelRocket.java"
+
+startProcessing "net/mcreator/stevesuniverse/world/WorldMoon.java" md5: 99dc27e6029f2f9a91bcf046f0e80dd1
+endProcessing "net/mcreator/stevesuniverse/world/WorldMoon.java"
+
+startProcessing "net/mcreator/stevesuniverse/world/WorldSpace.java" md5: be95cb322dc37fc511b68b1b2316c0a9
+endProcessing "net/mcreator/stevesuniverse/world/WorldSpace.java"
+
+startProcessing "net/mcreator/stevesuniverse/world/biome/BiomeMoonPlains.java" md5: 0de13df1a7fc21f77f6f10476c84b42b
+endProcessing "net/mcreator/stevesuniverse/world/biome/BiomeMoonPlains.java"
+

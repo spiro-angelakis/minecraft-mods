@@ -1,0 +1,103 @@
+{
+  "id_map": {
+    "DIMENSION": 2
+  },
+  "mod_elements": [
+    {
+      "name": "Space",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
+    },
+    {
+      "name": "MoonTurf",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MoonPlains",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Moon",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 2
+      }
+    },
+    {
+      "name": "FlySpace",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RocketFuel",
+      "type": "fluid",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FuelBucket",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.fuelbucket.name": "Fuel Bucket",
+      "tile.moonturf.name": "Moon Turf",
+      "item.moon.name": "Moon Portal Igniter",
+      "item.space.name": "Space Portal Igniter",
+      "fluid.rocketfuel": "RocketFuel"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "stevesuniverse",
+    "modName": "StevesUniverse",
+    "version": "1.0.0",
+    "author": "Angel, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "net.mcreator.stevesuniverse",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/dogecoin_miner_top",
+    "up": "stevescurrency:blocks/dogecoin_miner_top",
+    "north": "stevescurrency:blocks/dogecoinminerface",
+    "east": "stevescurrency:blocks/dogecoin_miner_side",
+    "south": "stevescurrency:blocks/dogecoinminerface",
+    "west": "stevescurrency:blocks/dogecoin_miner_side",
+    "particle": "stevescurrency:blocks/dogecoin_miner_top"
+  }
+}

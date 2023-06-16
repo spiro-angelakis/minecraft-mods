@@ -1,0 +1,17 @@
+turrets:
+	Potato Turret
+		wooden base
+	Dirt Turret
+		wooden base
+	Stone Turret
+		wooden base
+	Machine Gun Turret
+		copper base
+	Flame Turret
+		copper base
+	Bomb Turret
+		copper base
+	Laser Turret
+		iron base
+	Ender Turret
+		diamond base

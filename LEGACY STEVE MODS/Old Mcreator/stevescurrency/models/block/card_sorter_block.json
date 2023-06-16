@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/card_sorter_top",
+    "up": "stevescurrency:blocks/card_sorter_top",
+    "north": "stevescurrency:blocks/card_sorter_face",
+    "east": "stevescurrency:blocks/card_sorter_side",
+    "south": "stevescurrency:blocks/card_sorter_top",
+    "west": "stevescurrency:blocks/card_sorter_side",
+    "particle": "stevescurrency:blocks/card_sorter_top"
+  }
+}

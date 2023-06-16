@@ -1,0 +1,151 @@
+
+
+
+Mercury
+	Silicon based plains
+	LOTS of craters
+
+
+
+
+Venus
+	cloud city??? super tall sky based buildings/aliens?
+	rocky sand plains
+	sandstone mountains
+	large lava lakes
+	random regular periodic lightning
+	some craters
+	volcanos
+
+
+	
+
+
+
+
+
+
+
+Jupiter
+	superflat solid hydrogen dimension, with liquid hydrogen surface layer
+	atmosphere pressure kills all entities
+JUPITER MOONS:
+	Calisto (Dimension)
+		entire surface is extreme rocky DARK ICE above thin water layer 
+		surface has insane amount of craters
+		stone/ice caves underneath
+		EXTREME AMOUNT OF CRATERS (HIGHEST CRATER COUNT IN GALAXY)
+
+	Ganymede (Dimension)
+		Thin blue ice surface layer
+		entire planet under surface is Waterstone
+		Caves and Ocean caves
+		TONS of craters
+
+	Io (Dimension)
+		Lightstone plains
+		Basalt Cliffs
+		Volcanos
+		Planet is made of magma directly under the surface layer
+		caves/ocean caves
+
+	Europa (Low orbit moon structure)
+		spawns the structure ONCE the first time Jupiter low orbit is loaded
+		a sphere of ice
+		a smaller "core" sphere of iron ore
+		FEW craters
+
+
+
+
+Saturn
+	superflat solid helium-3 dimension with liquid hydrogen surface
+	has a ring on both planet and low orbit skyboxes
+	atmosphere pressure kills all entities
+SATURN MOONS:
+	Titan (Dimension):
+		superflat liquid silicon, with sandstone surface and thin ice under it
+		FEW craters
+	Enceladus ( Low orbit moon structure )
+		spawns the structure ONCE the first time Saturn low orbit is loaded
+		a sphere of ice
+		a smaller "core" sphere of stone
+		LOTS of craters
+
+
+Uranus
+	ice superflat world, with ice ores, entire planet is just ice all the way to bedrock
+	atmosphere pressure kills all entities
+URANUS MOONS:
+	Oberon ( Low orbit moon structure )
+		spawns the structure ONCE the first time Uranus low orbit is loaded
+		a sphere of ice
+		a smaller "core" sphere of stone
+		some craters
+	Puck ( Low orbit moon structure )
+		spawns the structure ONCE the first time Uranus low orbit is loaded
+		a sphere of stone
+		LOTS of craters
+
+
+Neptune
+	superflat water ocean planet (just use vanilla ocean and frozen ocean biomes)
+	(possibly use Auquamire mod for creatures)
+	atmosphere pressure kills all entities
+NEPTUNE MOONS:
+	Triton (Dimension)
+		ice normal world generation, with ice ores, planet is just ice
+		ridges, plains
+		few craters
+		ice volcanos??????
+	Nereid ( Low orbit moon structure )
+		spawns the structure ONCE the first time Neptune low orbit is loaded
+		a sphere of ice
+		ice ores
+		some craters
+
+
+Pluto
+	random regular periodic lightning
+	Dark ice cliffs and White ice plains, with solid silicon as planet base block
+	caves, ocean caves
+	HAS TITANITE ORE
+	has titan aliens
+PLUTO MOONS:
+	Charon ( Low orbit moon structure )
+		stone and stone ores
+		some large craters
+	Styx ( Low orbit moon structure )
+		ice and ice ores
+		no craters
+	Nix ( Low orbit moon structure )
+		stone and stone ores
+		one big crater
+	
+
+Planet X
+	perpetually dark healthy vanilla earth
+	extremely rare to find data to be able to come here
+
+Kuiper Belt (ROID FIELD)
+	BIG asteroids
+
+KUIPER BELT MOONS (ALL LOW ORBIT STRUCTURES)
+	Quaoar
+		ice and ice ores
+		two rings of shroomlight
+		some craters
+	MakeMake
+		nether and nether ores
+		many craters
+	Huamea
+		stone and stone ores
+		many craters
+
+	
+	
+	
+
+
+
+				

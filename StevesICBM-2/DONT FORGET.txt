@@ -1,0 +1,5 @@
+ADD THIS TO MOD.JAVA in MAIN PUBLIC FUNCTION
+
+
+
+bus.register(ModMessages.class);

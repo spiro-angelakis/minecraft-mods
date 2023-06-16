@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/dogetop",
+    "up": "stevescurrency:blocks/dogetop",
+    "north": "stevescurrency:blocks/dogeface",
+    "east": "stevescurrency:blocks/dogeglasses",
+    "south": "stevescurrency:blocks/dogeface",
+    "west": "stevescurrency:blocks/dogeglasses",
+    "particle": "stevescurrency:blocks/dogetop"
+  }
+}

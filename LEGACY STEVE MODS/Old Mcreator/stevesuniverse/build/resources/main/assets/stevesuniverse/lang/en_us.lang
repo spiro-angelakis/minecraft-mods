@@ -1,0 +1,6 @@
+item.fuelbucket.name=Fuel Bucket
+tile.moonturf.name=Moon Turf
+item.moon.name=Moon Portal Igniter
+tile.shipblock.name=Ship Block
+item.space.name=Space Portal Igniter
+fluid.rocketfuel=RocketFuel

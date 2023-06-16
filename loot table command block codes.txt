@@ -1,0 +1,5 @@
+/data merge block ~ ~-2 ~ {LootTable:"chests/hog_house_loot"}
+
+/data merge block ~ ~-2 ~ {LootTable:"chests/timmy_hut_loot"}
+
+/setblock ~ ~ ~ minecraft:chest 2 replace {LootTable:"chests/simple_dungeon"}

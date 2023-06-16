@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/down_counter_top",
+    "up": "stevescurrency:blocks/down_counter_top",
+    "north": "stevescurrency:blocks/down_counter_front",
+    "east": "stevescurrency:blocks/down_counter_side",
+    "south": "stevescurrency:blocks/down_counter_side",
+    "west": "stevescurrency:blocks/down_counter_side",
+    "particle": "stevescurrency:blocks/down_counter_top"
+  }
+}

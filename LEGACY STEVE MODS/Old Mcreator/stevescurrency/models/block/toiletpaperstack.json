@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/toilet_pb_face",
+    "up": "stevescurrency:blocks/toilet_pb_face",
+    "north": "stevescurrency:blocks/toilet_p_b_side",
+    "east": "stevescurrency:blocks/toilet_p_b_side",
+    "south": "stevescurrency:blocks/toilet_p_b_side",
+    "west": "stevescurrency:blocks/toilet_p_b_side",
+    "particle": "stevescurrency:blocks/toilet_pb_face"
+  }
+}

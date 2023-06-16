@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/diarrhea",
+    "up": "stevescurrency:blocks/diarrhea",
+    "north": "stevescurrency:blocks/diarrhea",
+    "east": "stevescurrency:blocks/diarrhea",
+    "south": "stevescurrency:blocks/diarrhea",
+    "west": "stevescurrency:blocks/diarrhea",
+    "particle": "stevescurrency:blocks/diarrhea"
+  }
+}

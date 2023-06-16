@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/feces",
+    "up": "stevescurrency:blocks/feces",
+    "north": "stevescurrency:blocks/feces",
+    "east": "stevescurrency:blocks/feces",
+    "south": "stevescurrency:blocks/feces",
+    "west": "stevescurrency:blocks/feces",
+    "particle": "stevescurrency:blocks/feces"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stevescurrency:items/card_clubs_03"
+  }
+}

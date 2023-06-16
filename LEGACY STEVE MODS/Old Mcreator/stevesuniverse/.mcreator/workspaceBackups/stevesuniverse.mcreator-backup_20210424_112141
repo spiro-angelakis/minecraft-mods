@@ -1,0 +1,41 @@
+{
+  "id_map": {
+    "DIMENSION": 1
+  },
+  "mod_elements": [
+    {
+      "name": "Space",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.space.name": "Space Portal Igniter"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "stevesuniverse",
+    "modName": "StevesUniverse",
+    "version": "1.0.0",
+    "author": "Angel, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "net.mcreator.stevesuniverse",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

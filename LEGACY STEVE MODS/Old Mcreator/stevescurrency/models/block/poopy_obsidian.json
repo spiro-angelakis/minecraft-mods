@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/poopy_obby",
+    "up": "stevescurrency:blocks/poopy_obby",
+    "north": "stevescurrency:blocks/poopy_obby",
+    "east": "stevescurrency:blocks/poopy_obby",
+    "south": "stevescurrency:blocks/poopy_obby",
+    "west": "stevescurrency:blocks/poopy_obby",
+    "particle": "stevescurrency:blocks/poopy_obby"
+  }
+}

@@ -1,0 +1,83 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.potato_turret2",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "all",
+					"pivot": [0, 0, 0],
+					"rotation": [0, -90, 0]
+				},
+				{
+					"name": "base",
+					"parent": "all",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-3, 0, -3], "size": [6, 1, 6], "uv": [0, 0]},
+						{"origin": [-2, 1, -2], "size": [4, 1, 4], "uv": [0, 7]},
+						{"origin": [-4, 0, -2], "size": [1, 1, 4], "uv": [0, 18]},
+						{"origin": [3, 0, -2], "size": [1, 1, 4], "uv": [10, 17]},
+						{"origin": [-2, 0, -4], "size": [4, 1, 1], "uv": [9, 22]},
+						{"origin": [-2, 0, 3], "size": [4, 1, 1], "uv": [19, 21]}
+					]
+				},
+				{
+					"name": "stem",
+					"parent": "base",
+					"pivot": [0, 2, 0],
+					"cubes": [
+						{"origin": [-1, 2, -1], "size": [2, 4, 2], "uv": [18, 0]}
+					]
+				},
+				{
+					"name": "cannon",
+					"parent": "stem",
+					"pivot": [0, 6, 0]
+				},
+				{
+					"name": "tube",
+					"parent": "cannon",
+					"pivot": [-1, 7, 0],
+					"cubes": [
+						{"origin": [-4.5, 6.17157, -2], "size": [6, 1.65685, 1], "pivot": [-1, 7, 0], "rotation": [-45, 0, 0], "uv": [0, 16]},
+						{"origin": [-5.5, 6.17157, -2], "size": [7, 1.65685, 1], "uv": [0, 14]},
+						{"origin": [-4.5, 6.17157, 1], "size": [6, 1.65685, 1], "pivot": [-1, 7, 0], "rotation": [-45, 0, 0], "uv": [15, 15]},
+						{"origin": [-5.5, 6.17157, 1], "size": [7, 1.65685, 1], "uv": [12, 9]},
+						{"origin": [-4.5, 5, -0.82843], "size": [6, 1, 1.65685], "pivot": [-1, 7, 0], "rotation": [-45, 0, 0], "uv": [15, 13]},
+						{"origin": [-5.5, 5, -0.82843], "size": [7, 1, 1.65685], "uv": [12, 7]},
+						{"origin": [-4.5, 8, -0.82843], "size": [6, 1, 1.65685], "pivot": [-1, 7, 0], "rotation": [-45, 0, 0], "uv": [15, 11]},
+						{"origin": [-5.5, 8, -0.82843], "size": [7, 1, 1.65685], "uv": [0, 12]}
+					]
+				},
+				{
+					"name": "backcap",
+					"parent": "tube",
+					"pivot": [1, 7, 0],
+					"cubes": [
+						{"origin": [0, 6, -1], "size": [2, 2, 2], "uv": [16, 17]},
+						{"origin": [1.5, 8, -0.8], "size": [0.3, 2, 1.6], "uv": [2, 2]},
+						{"origin": [1.5, 4, -0.8], "size": [0.3, 2, 1.6], "uv": [0, 0]},
+						{"origin": [1.5, 6, -2.6], "size": [0.3, 2, 1.6], "uv": [2, 0]},
+						{"origin": [1.5, 6, 1], "size": [0.3, 2, 1.6], "uv": [0, 2]}
+					]
+				},
+				{
+					"name": "backpin",
+					"parent": "backcap",
+					"pivot": [1, 7, 0],
+					"cubes": [
+						{"origin": [2, 6, -0.1], "size": [2, 1, 0.2], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

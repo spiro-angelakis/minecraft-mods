@@ -1,0 +1,113 @@
+New Ore:
+- Sulfur Deposit (Found Between y: 25 and y: 46)
+
+New Blocks:
+( fuck allat shit bwaybwee) poggers
+
+Original Missiles:
+- Spudnik (explosion 5x TNT, spawns potatoes) -- Basic Empty Missile, 2 LC Gunpowder, 6 potatoes
+- Terrier (explosion 10x TNT) -- Finned Empty Missile, 4 Gunpowder, 4 LC Gunpowder
+- Big Papa (explosion 80x TNT) -- Heavy Empty Missile, 4 HC Gunpowder, 4 LC Gunpowder
+
+- Bunker Buster (explodes downward creating deep holes) -- Finned Empty Missile, 4 LC Gunpowder, 2 HC Gunpowder, 2 Gunpowder
+- Richard (spawns giant dirt penis) -- Finned Empty Missile, 4 Dirt Blocks, 4 Rotten Flesh
+
+- EMP Missile (lightning strikes randomly in impact radius) -- Advanced Empty Missile, 8 Power Supplies
+
+- Nether Bomb (spawns netherrack and nether mobs on impact, in 32 block diameter, flat-ish plane on surface) -- Advanced Empty Missile, 2 Magma Cream, 6 Blaze Rods
+
+- HAARP Missile (lightning strikes randomly in impact radius) -- Advanced Empty Missile, 8 End Rods
+
+- Tsar Bomba (eats a radius of 128 blocks around impact without use of explosions) -- Heavy Empty Missile, 1 Nether Cores, 1 SC Gunpowder, 4 HC Gunpowder, 2 LC Gunpowder
+
+
+
+
+New Fluid:
+fuh dat
+
+
+Items for crafting:
+
+Raw Sulfur - Drops from Sulfur Deposit when mined, or when Deposit Block is smelted (for silk touch)
+
+New Recipe for Cactus Green Dye: 9 leaves in crafting table
+New Recipe for Red Dye: 4 redstone in crafting table
+New Recipes for Black Dye: 4 Coal or 4 Charcoal in Crafting Table
+
+New Recipe for Gunpowder: 2 sulfur and one Charcoal
+
+Nether Core -- (9x Nether Star)
+
+Light Condensed Gunpowder (9x Gunpowder)
+Heavy Condensed Gunpowder (9x LC Gunpowder)
+Super Condensed Gunpowder (9x HC Gunpowder)
+
+Missile Crafting: 
+
+Missile Cap - Three Iron Blocks, Iron Ingot
+Missile Tube - Six Iron Blocks, Iron Ingot
+Missile Barrel - Iron Block, Two Iron Ingots
+Missile Fin - Five Iron Ingots
+
+Basic Empty Missile -- Cap, Tube, Barrel
+Finned Empty Missile -- Cap, Tube, 4 Fins, Barrel
+Advanced Empty Missile -- Cap, 2 Tubes, 2 Barrels, Iron Block
+Heavy Empty Missile -- 3 Caps, 3 Tubes, 3 Barrels
+
+
+ICBM Computer -- Super Computer, 2 Radars
+Anti Aircraft Cannon -- Advanced Computer, 2 Radars, Missile Tube
+Launchpad -- five gravel, four clay
+
+PC main parts:
+
+
+
+Basic Computer -- Motherboard, Computer Case, HDD, CPU, GPU, RAM, Power Supply, Power Cable, Data Cable
+Advanced Computer -- Basic Computer, SSD, Power Supply, 2 RAM 
+
+Super Computer -- Computer Monitor, 3 Advanced Computer
+
+Motherboard -- Large Chip Base, Power Cable, Data Cable, 6 Gold Wire
+GPU -- Large Chip Base, 2 CPUs, Chip Plate, Data Cable
+CPU -- Chip Base, 8 Chip Plates
+RAM -- Chip Base, 2 Chip Plates, 6 Clocks
+HDD -- Chip Base, 4 Chip Plates, 3 Clocks, Data Cable
+SSD -- Chip Base, 2 HDDs, 2 Chip Plates, 3 Clocks, 2 Data Cables
+Power Supply -- 3 Iron Ingots, Chip Base, 2 Chip Plates, 3 Power Cables
+Computer Case -- Glass Pane, Data Cable, Power Cable, 6 Iron Ingots
+
+
+Computer Monitor -- 7 Iron Ingots, Display, Screen
+
+Screen -- 8 Black Stained Glass Panes
+Display -- Large Chip Base, Power Cable, 2 Chip Plates, 2 Data Cables, 3 gold wire
+
+Radar -- Large Chip Base, Three Sensors, Power Cable, Data Cable, 3 Chip Plates
+
+PC micro parts:
+
+Sensor -- Chip Base, Two Eyes of Ender, Clock, Power Cable, Data Cable, 3 Chip Plates
+
+Gold Wire -- 5 Gold Nuggets
+Chip Base -- 3 Iron Ingots, 3 Gold Wire, Cactus Green Dye
+Large Chip Base -- 9 Chip Bases
+Power Cable -- 3 Gold Wire, 6 Black Dye
+Data Cable -- 3 Gold Wire, 2 Red Dye, 2 Cactus Green Dye, 2 Blue Dye
+Chip Plate -- Chip Base, 2 Gold Wire, 6 Iron Ingots
+
+
+
+Final Steps:
+
+
+- Block that spawns a wither when players are close (to castle)
+
+- ICBM pc uses power to launch (10,000 per launch, 50,000 max)
+- Need to know how much power these blocks have!
+- AntiAir Cannon uses power and has 300 tick cooldown between fires (10,000 per fire, 50,000 max)
+
+- WITHER CASTLE
+
+

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stevescurrency:blocks/poopy_redstone",
+    "up": "stevescurrency:blocks/poopy_redstone",
+    "north": "stevescurrency:blocks/poopy_redstone",
+    "east": "stevescurrency:blocks/poopy_redstone",
+    "south": "stevescurrency:blocks/poopy_redstone",
+    "west": "stevescurrency:blocks/poopy_redstone",
+    "particle": "stevescurrency:blocks/poopy_redstone"
+  }
+}

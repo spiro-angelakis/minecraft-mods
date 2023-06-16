@@ -1,0 +1,16 @@
+make the random offset for downward missiles very small for now
+	maybe later random offsets can be large and use more power to remove them
+
+
+
+
+
+make terrier downward use downward model
+
+
+
+MAKE LAUNCHED MISSILES TELL THEIR LAUNCHPAD BLOCK IT NO LNGER HAS A HASMISSILE TAG
+
+
+
+BUNKER BUStER EXPLOSION SUXXXXX, DOESNT GO DOWN
