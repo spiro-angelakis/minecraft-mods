@@ -1,0 +1,15 @@
+new materials:
+	
+	- tin (forge:tin) (from ore)
+	- bronze (forge:bronze)
+	- steel (forge:steel)
+
+
+
+
+new tools:
+
+
+Hammer
+	- mines a 3x3x1 wall (pickaxe alternative for fast digging)
+	- iron, gold, diamond, netherite
