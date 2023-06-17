@@ -1,16 +1,14 @@
-make the random offset for downward missiles very small for now
-	maybe later random offsets can be large and use more power to remove them
 
 
 
 
-
-make terrier downward use downward model
-
-
-
-MAKE LAUNCHED MISSILES TELL THEIR LAUNCHPAD BLOCK IT NO LNGER HAS A HASMISSILE TAG
+MAKE SMOKE FALL DOWN, ALWAYS SHOW
 
 
 
-BUNKER BUStER EXPLOSION SUXXXXX, DOESNT GO DOWN
+STILL CANT SEE HAARP BLAST PARTICLE
+
+
+
+
+EMPS ONLY WORK PARTIALLY, BARELY, FIX
