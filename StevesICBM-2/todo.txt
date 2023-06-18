@@ -1,9 +1,41 @@
 
 
 
-TEST AA LAUNCHER ON SERVER
+
+AA AUTO CANNON AND DEFENSE MONITOR ARE TOO OP FOR CPU
 
 
 
 
+aa auto cannon and monitor have transparent parts!
 
+
+
+
+fix screen issue on monitor needs more seperation from monitor on model
+
+add a 1 second start timer to claymore for safety
+
+
+
+print messages to player when using c4 detonator
+
+
+
+CHANGE COORDINATE SETTER DEVICE TO MAKE MORE SENSE / EASIER TO READ
+
+
+
+make missile ceiling check check much higher
+
+
+
+c4 rotations are broken!
+
+
+nether red smoke is nt translucent
+
+
+
+
+TSAR BOMBA SHOULDNT REMOVE BEDROCK
