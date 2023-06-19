@@ -20,6 +20,8 @@ add a 1 second start timer to claymore for safety
 
 print messages to player when using c4 detonator
 
+make sure c4 force loads chunk when detonator is set
+
 
 
 CHANGE COORDINATE SETTER DEVICE TO MAKE MORE SENSE / EASIER TO READ
@@ -31,6 +33,8 @@ make missile ceiling check check much higher
 
 
 c4 rotations are broken!
+
+
 
 
 nether red smoke is nt translucent
