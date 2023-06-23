@@ -1,0 +1,12 @@
+
+wasteland
+	remove all monuments from wastes
+
+	MAKE WASTES TAKE OVER MORE WORLD
+
+	LESS FROZEN TUNDRA
+
+	RAD WATER ONLY HURTS U IF INSIDE IT
+
+	death.attack.Radiation Poisioning
+	death.attack.Radiation Poisioning.player

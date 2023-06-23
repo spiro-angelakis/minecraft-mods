@@ -1,0 +1,23 @@
+primitive
+
+
+	if fuel is 0 dont show fire prim furnace
+	ranomdly smoke out of prim furnace
+
+
+
+
+
+
+	death.attack.hand.player
+	death.attack.tree.player
+
+	makeshift planks connected sides
+	
+	no pain from snow (flat snow)
+	
+	shard should come from all wood/flint tools and sword
+	chunks should come from all stone tools and sword
+
+	put rocks on top of the ground
+	put sticks on top of the ground
