@@ -10,3 +10,15 @@ wasteland
 
 	death.attack.Radiation Poisioning
 	death.attack.Radiation Poisioning.player
+
+
+
+	add another type of dead grass
+	add all wasteland foliage to grass minecraft tag (for prim drops)
+
+
+
+	combine with prim and make sure u can find rocks
+
+	remove minecraft:logs tag from dead wood log
+	add forge:dead_logs tag to dead wood log

@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/stick_block_texture",
+		"particle": "block/stick_block_texture"
+	},
+	"elements": [
+		{
+			"name": "stick",
+			"from": [6, 0, 1],
+			"to": [7, 1, 10],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8.5, 0.5, 8.5]},
+			"faces": {
+				"north": {"uv": [2, 2, 3, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 9, 1], "texture": "#0"},
+				"south": {"uv": [2, 3, 3, 4], "texture": "#0"},
+				"west": {"uv": [0, 1, 9, 2], "texture": "#0"},
+				"up": {"uv": [1, 11, 0, 2], "texture": "#0"},
+				"down": {"uv": [2, 2, 1, 11], "texture": "#0"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "all",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

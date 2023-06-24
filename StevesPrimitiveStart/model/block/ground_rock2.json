@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/ground_rock_texture",
+		"particle": "block/ground_rock_texture"
+	},
+	"elements": [
+		{
+			"from": [9, 0, 9],
+			"to": [13, 1, 13],
+			"rotation": {"angle": -45, "axis": "y", "origin": [11, 0.5, 11]},
+			"faces": {
+				"north": {"uv": [4, 0, 8, 1], "texture": "#0"},
+				"east": {"uv": [4, 1, 8, 2], "texture": "#0"},
+				"south": {"uv": [4, 2, 8, 3], "texture": "#0"},
+				"west": {"uv": [4, 3, 8, 4], "texture": "#0"},
+				"up": {"uv": [4, 4, 0, 0], "texture": "#0"},
+				"down": {"uv": [4, 4, 0, 8], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "all",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

@@ -1,23 +1,34 @@
-primitive
+makeshift planks bowl recipe
 
 
-	if fuel is 0 dont show fire prim furnace
-	ranomdly smoke out of prim furnace
+TINY CLAY, CANT GET CLAY WITHOUT SHOVEL
+
+
+clay shouldnt hurt hand
+
+moss shouldnt hurt hand
+
+
+flint axe should get mishandled wood (stone axe gets actual real wood log)
+
+
+make hand hurt damage more random (so it happens less)
+
+
+make wicker cheaper if possible
+
+wicker door
+makeshift wood door
+
+sometimes wood pick breaks and u get no drop
 
 
 
+achievement for getting prim furnace
 
 
 
-	death.attack.hand.player
-	death.attack.tree.player
+HITTING TREE WITH STONE PICKAXE HURTS?????????
 
-	makeshift planks connected sides
-	
-	no pain from snow (flat snow)
-	
-	shard should come from all wood/flint tools and sword
-	chunks should come from all stone tools and sword
 
-	put rocks on top of the ground
-	put sticks on top of the ground
+prim furnace will OFTEN randomly create ash instead of intended product
