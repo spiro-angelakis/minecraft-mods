@@ -1,5 +1,9 @@
 
 wasteland
+
+	STUFF THAT SHOULD DROP LEAVES, PLANT FIBER, AND STICKS SHOULD BE TAGGED AS forge:foragable
+
+
 	remove all monuments from wastes
 
 	MAKE WASTES TAKE OVER MORE WORLD

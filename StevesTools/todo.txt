@@ -1,0 +1,1 @@
+dont treecapitate with tools tagged in item tags forge:poor_axe

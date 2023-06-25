@@ -1,34 +1,11 @@
-makeshift planks bowl recipe
-
-
-TINY CLAY, CANT GET CLAY WITHOUT SHOVEL
-
-
-clay shouldnt hurt hand
-
-moss shouldnt hurt hand
-
-
-flint axe should get mishandled wood (stone axe gets actual real wood log)
-
-
-make hand hurt damage more random (so it happens less)
-
-
-make wicker cheaper if possible
-
-wicker door
-makeshift wood door
-
-sometimes wood pick breaks and u get no drop
 
 
 
-achievement for getting prim furnace
+
+
+jei integration
+
+rarely prim furnace can eat input glitch
 
 
 
-HITTING TREE WITH STONE PICKAXE HURTS?????????
-
-
-prim furnace will OFTEN randomly create ash instead of intended product
