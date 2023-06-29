@@ -19,13 +19,6 @@ add raw osmium and ingot and give forge tag
 
 
 
-
-
-dont print atmo moon gen locs in chat
-make phobos and deimos spawn anywhere instead of close pos neg
-unforceload chunks for atmo moons after gen
-
-
 make jupiter's atmo proc
 
 make saturn
