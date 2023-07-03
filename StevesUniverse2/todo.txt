@@ -1,14 +1,13 @@
 
+satellites broke after adding failure mechanics
+
+satellite says out of range for luna sat sent from earth
+
+when sat monitor says OUT OF RANGE, it constantly swaps back and forth between idle and online states
 
 
 
 
-
-
-
-
-
-make cryobed (for respawn loc)
 
 
 add earth stone bauxite
@@ -16,7 +15,7 @@ add raw bauxite and ingot and give forge tag
 add raw osmium and ingot and give forge tag
 
 
-
+check all ores
 
 
 make jupiter's atmo proc
@@ -25,7 +24,7 @@ make saturn
 
 
 
-
+make gravity
 
 
 

@@ -163,8 +163,9 @@ Proxima Centauri
 
 Kepler 296
 	b - cracked dirt plains, desert
-	f - ocean, mesa, beaches
 	d - lava ocean, stone beaches
+	f - ocean, mesa, beaches
+	
 
 
 
