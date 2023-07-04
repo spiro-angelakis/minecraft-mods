@@ -1,12 +1,14 @@
 
-satellites broke after adding failure mechanics
 
-satellite says out of range for luna sat sent from earth
-
-when sat monitor says OUT OF RANGE, it constantly swaps back and forth between idle and online states
+make rocket crafting systems
 
 
+make rocket retrival systems
 
+
+make parachutes
+
+make flags
 
 
 
