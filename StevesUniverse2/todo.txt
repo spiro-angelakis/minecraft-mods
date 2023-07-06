@@ -1,8 +1,12 @@
 
 
-BLASTER RIFLE AND PISTOL HAVE ERRORS SHOOTING AT CERTAIN ANGLES, BULLET DISAPPEARS AT ORIGIN
+dont render clouds or sunlight in space!
 
 
+
+
+
+add electrical lights
 
 make rocket crafting systems
 
