@@ -1,6 +1,20 @@
 STEVES METEORS
 
 
+
+FIX PLAYER TICK PERFORMANCE
+
+
+
+IF NOT IN EARTH DONT SPAWN FIRE
+
+
+
+MAKE SURE NO METEROS IN NETHER OR END
+
+
+
+
 add nether quartz and netherite meteors
 
 add end meteors
