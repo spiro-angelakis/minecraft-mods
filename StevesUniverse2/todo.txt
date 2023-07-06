@@ -5,23 +5,11 @@ dont render clouds or sunlight in space!
 
 
 
-
-add electrical lights
-
-make rocket crafting systems
-
-
-make rocket retrival systems
-
-
 make parachutes
 
 make flags
 
 
-
-add earth stone bauxite
-add raw bauxite and ingot and give forge tag
 add raw osmium and ingot and give forge tag
 
 
