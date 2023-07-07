@@ -3,22 +3,25 @@
 dont render clouds or sunlight in space!
 
 
+SPACE JETPACK >:(
 
 
-make parachutes
 
-make flags
+make lander
 
 
-add raw osmium and ingot and give forge tag
+SMELT AND BLAST RECIPES FOR ALL ORES
 
+
+FORTUNE AND SILK TOUCH FUNCTIONS ON ALL ORES
 
 check all ores
 
 
-make jupiter's atmo proc
 
-make saturn
+SPACE KILLS IF NOT IN SPACE SUIT FROM VACUUME PRESSURE
+
+GAS GIANTS PRESSURE KILLS IF NOT TITANITE SUIT
 
 
 
