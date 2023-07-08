@@ -1,17 +1,4 @@
 
-ONLY CAN LAUNCH ROCKETS IF THEY SEE THE SKY
-BLOW SHIT UP IF ITS ANYWHERE NEAR ABOVE THE ROCKET WHEN FLYING
-
-
-ADD ROCKET LIFTOFF SOUNDS
-
-
-dont render clouds or sunlight in space!
-
-
-
-fix space scaffolding placement
-
 
 FTL JUMPSHIP
 
