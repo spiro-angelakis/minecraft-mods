@@ -1,0 +1,27 @@
+mercury 0
+venus 1
+earth 2
+mars 3
+asteroid belt 4
+jupiter 5
+saturn 6
+uranus 7
+neptune 8
+pluto 9
+planet x 10
+kuiper belt 11
+proximab 12
+proximad 13
+keplerb 14
+keplerd 15
+keplerf 16
+
+
+
+luna 0
+lilith 1
+callisto 4
+ganymede 5
+io 6
+titan 8
+triton 12
