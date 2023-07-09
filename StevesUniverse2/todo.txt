@@ -1,21 +1,5 @@
 
 
-spacesuit takes oxygen on earth!
-
-spacsuit took two oxyegn when put on!
-
-add a variable for just used rocket for use in earth dim check OR JUST CHECK HEIGHT DUMMY
-
-
-
-LANDER HAS BAD SITTING
-
-LANDER HAS BAD COLLISION
-
-
-
-make spacesuit oxy and fuel show on screen like a hotbar
-
 FTL JUMPSHIP
 
 PARTICLE ACCELERATOR
