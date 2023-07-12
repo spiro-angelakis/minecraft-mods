@@ -1,16 +1,20 @@
+add flame rocket particles
 
-PARTICLE ACCELERATOR
-
-
-
-
-SPACE KILLS IF NOT IN SPACE SUIT FROM VACUUME PRESSURE
-
-GAS GIANTS PRESSURE KILLS IF NOT TITANITE SUIT
+make jet sounds more likely to play
+try making them block sounds
 
 
 
-make gravity
+add configs for oxygenator, power cost, fluid cost
+
+
+reverse up/down for space scaffold
+
+make space suits work in water
+
+downgrade mcreator to fix sky rendering
+
+
 
 
 ------
