@@ -1,18 +1,24 @@
-add flame rocket particles
-
-make jet sounds more likely to play
-try making them block sounds
 
 
 
-add configs for oxygenator, power cost, fluid cost
+FIX SU SOMEHOW AND IF GOING BACK TO LAST BACKUP REIMPLEMENT THE FOLLIWING
+
+"
+fixed sky renderer for space/planet/moon/belt dimensions
+added proper tags to jumpship entity
+added flame particles to rockets after liftoff
+made rocket sound more likely to play every tick
+reversed y placement of spacescaffolding
+made rocket smoke particles larger
+area oxygenator now gives back empty capsules when using oxygen capsules
+area oxygenator now has config settings for power and fluid costs
+added several advancements to achieve
+made oxygen blocks completely transparent
+added oxygen bubble particles to oxygen blocks to identify where they move
+added a guide book
+"
 
 
-reverse up/down for space scaffold
-
-make space suits work in water
-
-downgrade mcreator to fix sky rendering
 
 
 
