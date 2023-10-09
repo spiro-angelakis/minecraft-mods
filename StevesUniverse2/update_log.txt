@@ -1,0 +1,7 @@
+fixed a skybox bug on jupiter
+fixed gravity levels on some planets and gas giants
+made spacesuit oxygen breathing work in any kind of fluid
+made spacesuit oxygen systems only work in survival and adventure modes
+fixed thruster sounds being played globally
+made spacesuit oxygen ui display when in fluids
+fixed anti-gravity bug when in creative flight mode
