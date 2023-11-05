@@ -1,0 +1,57 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.flame_turret",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "base",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-4, 0, -4], "size": [8, 1, 8], "uv": [4, 4]},
+						{"origin": [2, 1, -3], "size": [1, 1, 1], "uv": [5, 1]},
+						{"origin": [-3, 1, -3], "size": [1, 1, 1], "uv": [0, 4]},
+						{"origin": [-3, 1, 2], "size": [1, 1, 1], "uv": [3, 3]},
+						{"origin": [2, 1, 2], "size": [1, 1, 1], "uv": [0, 2]}
+					]
+				},
+				{
+					"name": "neck",
+					"parent": "base",
+					"pivot": [0, 1, 0],
+					"cubes": [
+						{"origin": [-1, 0.3, -1], "size": [2, 2.7, 2], "uv": [50, 32]},
+						{"origin": [-2, 2, -2], "size": [4, 2, 4], "uv": [4, 46]}
+					]
+				},
+				{
+					"name": "cannon",
+					"parent": "neck",
+					"pivot": [0, 4, 0],
+					"cubes": [
+						{"origin": [-5, 4, -1], "size": [10, 7, 7], "uv": [0, 31]},
+						{"origin": [-3, 4, -2], "size": [6, 8, 1], "uv": [6, 37]},
+						{"origin": [-2, 4, -11], "size": [4, 4, 9], "uv": [0, 71]},
+						{"origin": [-1, 8, -8], "size": [2, 2, 6], "uv": [0, 74]},
+						{"origin": [-4, 11, -1], "size": [8, 2, 6], "uv": [1, 32]}
+					]
+				},
+				{
+					"name": "dome",
+					"parent": "cannon",
+					"pivot": [0, 6, 2],
+					"cubes": [
+						{"origin": [-6, 8, 1], "size": [12, 2, 6], "uv": [36, 0]}
+					]
+				}
+			]
+		}
+	]
+}
